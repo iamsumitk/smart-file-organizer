@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+
+# Local-only files (not for GitHub)
+organised_files/
+sample_files/
+logs/
+Smart File Organizer.desktop
